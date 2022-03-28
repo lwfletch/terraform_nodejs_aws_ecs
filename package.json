@@ -1,0 +1,23 @@
+{
+  "name": "terraform_node_aws_ecs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwfletch/terraform_nodejs_aws_ecs.git"
+  },
+  "author": "Trey Fletcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwfletch/terraform_nodejs_aws_ecs/issues"
+  },
+  "homepage": "https://github.com/lwfletch/terraform_nodejs_aws_ecs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
